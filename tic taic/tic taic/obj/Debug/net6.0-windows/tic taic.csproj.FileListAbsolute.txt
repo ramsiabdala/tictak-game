@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\tic taic\tic taic\bin\Debug\net6.0-windows\tic taic.exe
+C:\Users\hp\source\repos\tic taic\tic taic\bin\Debug\net6.0-windows\tic taic.deps.json
+C:\Users\hp\source\repos\tic taic\tic taic\bin\Debug\net6.0-windows\tic taic.runtimeconfig.json
+C:\Users\hp\source\repos\tic taic\tic taic\bin\Debug\net6.0-windows\tic taic.dll
+C:\Users\hp\source\repos\tic taic\tic taic\bin\Debug\net6.0-windows\tic taic.pdb
+C:\Users\hp\source\repos\tic taic\tic taic\obj\Debug\net6.0-windows\tic taic.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\tic taic\tic taic\obj\Debug\net6.0-windows\tic_taic.Form1.resources
+C:\Users\hp\source\repos\tic taic\tic taic\obj\Debug\net6.0-windows\tic taic.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\tic taic\tic taic\obj\Debug\net6.0-windows\tic taic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\tic taic\tic taic\obj\Debug\net6.0-windows\tic taic.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\tic taic\tic taic\obj\Debug\net6.0-windows\tic taic.AssemblyInfo.cs
+C:\Users\hp\source\repos\tic taic\tic taic\obj\Debug\net6.0-windows\tic taic.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\tic taic\tic taic\obj\Debug\net6.0-windows\tic taic.dll
+C:\Users\hp\source\repos\tic taic\tic taic\obj\Debug\net6.0-windows\refint\tic taic.dll
+C:\Users\hp\source\repos\tic taic\tic taic\obj\Debug\net6.0-windows\tic taic.pdb
+C:\Users\hp\source\repos\tic taic\tic taic\obj\Debug\net6.0-windows\tic taic.genruntimeconfig.cache
+C:\Users\hp\source\repos\tic taic\tic taic\obj\Debug\net6.0-windows\ref\tic taic.dll
